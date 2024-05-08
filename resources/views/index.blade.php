@@ -32,9 +32,5 @@
 
 </html>
 <style>
-    .navbar {
-        .bg-body-tertiary {
-            background-color: rgba(0, 0, 0, 0.6) !important;
-        }
-    }
+
 </style>
